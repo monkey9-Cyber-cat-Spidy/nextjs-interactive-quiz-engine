@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-interactive-quiz-engine",
+  "version": "1.1.0",
+  "dependencies": {
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
